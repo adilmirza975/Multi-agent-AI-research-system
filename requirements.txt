@@ -20,4 +20,6 @@ pydantic
 ipython
 jupyter
 
+streamlit
+
 typing-extensions
