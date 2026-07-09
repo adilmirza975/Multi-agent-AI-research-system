@@ -20,6 +20,8 @@ pydantic
 ipython
 jupyter
 
+rich
+
 streamlit
 
 typing-extensions
